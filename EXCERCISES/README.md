@@ -1,0 +1,1 @@
+## I will be uploading all kinda practise problems i tried to improve my problem solving skill. From basic level to advanced level. However this is solely for the purpose of problem solving so you are required to know python basic syntaxes.
